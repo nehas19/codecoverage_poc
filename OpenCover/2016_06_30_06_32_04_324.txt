@@ -1,0 +1,2 @@
+UnitTestProject.Test.TestClass.AddTest
+UnitTestProject.Test.TestClass.SubtractTest
